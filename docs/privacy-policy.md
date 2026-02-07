@@ -120,6 +120,7 @@ If you have questions about this Privacy Policy, please contact us:
 
 [Back to Home](./)
 
+#한국어
 
 # 개인정보 처리방침
 
