@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="docs/assets/images/app-icon.png" alt="HaruMong App Icon" width="120" height="120" style="border-radius: 24px;">
+  <img src="docs/assets/app-icon.png" alt="HaruMong" width="120" height="120" style="border-radius: 24px;">
 </p>
 
 <h1 align="center">HaruMong</h1>
 
 <p align="center">
-  <strong>Your habit tracking companion with a virtual pet</strong>
+  <strong>Build habits. Raise your pet. Transform your life.</strong>
 </p>
 
 <p align="center">
@@ -14,101 +14,84 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://instagram.com/harumong.app">Instagram</a> •
+  <a href="#patch-notes">Patch Notes</a> •
+  <a href="docs/support.md">Support</a>
+</p>
+
 ---
 
-## About
-
-HaruMong helps you build lasting habits by combining habit tracking with a virtual pet experience. Complete your daily habits to keep your pet happy and healthy!
-
 <p align="center">
-  <img src="docs/assets/images/Sleepy_Ivory.png" alt="Sleepy Mongi" width="100">
-  <img src="docs/assets/images/Default_Ivory.png" alt="Default Mongi" width="100">
-  <img src="docs/assets/images/Excited_Ivory.png" alt="Excited Mongi" width="100">
+  <img src="docs/assets/Sleepy_Ivory.png" alt="Sleepy" width="100">
+  <img src="docs/assets/Default_Ivory.png" alt="Happy" width="100">
+  <img src="docs/assets/Excited_Ivory.png" alt="Excited" width="100">
 </p>
 
-<p align="center">
-  <em>Your pet's mood changes based on your habit completion!</em>
-</p>
+## Your Habits, Your Pet, Your Journey
+
+Meet your new companion who grows with you! HaruMong transforms habit tracking into a heartwarming experience. Every habit you complete makes your adorable pet happier and healthier.
+
+**Simple yet powerful habit tracking** - Whether you want to drink more water, exercise daily, or read before bed, HaruMong makes it easy and fun. Create custom habits or choose from templates, track your streaks, and watch your progress unfold.
+
+**A pet that truly cares** - Your virtual companion reacts to your daily progress. Complete your habits and watch them beam with joy. Skip a day? They'll miss you! This emotional connection keeps you motivated like never before.
+
+**Mindful daily reflections** - Start your mornings with intention and end your evenings with gratitude. Our check-in feature helps you stay mindful and connected to your goals.
 
 ## Features
 
-- **Smart Habit Tracking** - Create simple or quantity-based habits
-- **Virtual Pet Companion** - Care for your cute pet that reacts to your progress
-- **Daily Check-ins** - Morning and evening reflections
-- **Mood Tracking** - Log your daily mood and see patterns
-- **Beautiful Widgets** - Track habits from your home screen
-- **Detailed Statistics** - View your progress over time
-- **HealthKit Integration** - Sync steps and mindfulness data
-- **iCloud Sync** - Keep your data across devices
-- **Localization** - English & Korean support
+- **Smart Habit Tracking** - Simple check-offs or quantity-based goals
+- **Virtual Pet Companion** - A cute friend that reacts to your progress
+- **Daily Check-ins** - Morning intentions & evening reflections
+- **Mood Tracking** - Log how you feel and discover patterns
+- **Beautiful Widgets** - Track habits right from your home screen
+- **Detailed Statistics** - See your growth over time
+- **Health App Sync** - Connect with Apple Health
+- **iCloud Backup** - Never lose your progress
 
-## Requirements
+## Download
 
-- iOS 17.0+
-- Xcode 15.0+
-- Swift 5.9+
+<a href="https://apps.apple.com/app/harumong">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="60">
+</a>
 
-## Build
+Available on iPhone and iPad. Requires iOS 17.0 or later.
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/[username]/HaruMong.git
-   ```
+## Stay Connected
 
-2. Open the project
-   ```bash
-   cd HaruMong
-   open HaruMong.xcodeproj
-   ```
+Follow us for updates, tips, and cute pet content!
 
-3. Configure signing
-   - Select the project in Xcode
-   - Go to **Signing & Capabilities**
-   - Select your development team
+**Instagram:** [@harumong.app](https://instagram.com/harumong.app)
 
-4. Build and run (⌘R)
+## Patch Notes
 
-## Project Structure
+### Version 1.0.0
+- Initial release
+- Habit tracking with simple and quantity types
+- Virtual pet companion
+- Morning and evening check-ins
+- Mood tracking
+- Home screen widgets
+- Statistics and streaks
+- iCloud sync
+- English and Korean language support
 
-```
-HaruMong/
-├── App/                    # App entry point
-├── Models/                 # Data models
-├── Views/                  # SwiftUI views
-│   ├── Habits/
-│   ├── Pet/
-│   ├── Stats/
-│   ├── Settings/
-│   └── Premium/
-├── ViewModels/             # View models
-├── Services/               # Business logic
-├── Components/             # Reusable UI components
-├── Extensions/             # Swift extensions
-├── Utilities/              # Helper utilities
-└── Resources/              # Assets & localization
-```
+---
 
-## Tech Stack
+## Support
 
-- **SwiftUI** - UI framework
-- **SwiftData** - Data persistence
-- **WidgetKit** - Home screen widgets
-- **StoreKit 2** - In-app purchases
-- **HealthKit** - Health data integration
-- **CloudKit** - iCloud sync
+Need help? Check out our resources:
 
-## Links
+- [Support & FAQ](docs/support.md)
+- [Privacy Policy](docs/privacy-policy.md)
+- [Terms of Service](docs/terms-of-service.md)
 
-- [Privacy Policy](https://[username].github.io/HaruMong/privacy-policy)
-- [Terms of Service](https://[username].github.io/HaruMong/terms-of-service)
-- [Support & FAQ](https://[username].github.io/HaruMong/support)
+**Contact:** [harumong.app@gmail.com](mailto:harumong.app@gmail.com)
 
-## Contact
-
-**Email:** [harumong.app@gmail.com](mailto:harumong.app@gmail.com)
+We typically respond within 24-48 hours.
 
 ---
 
 <p align="center">
-  Made with ❤️ for building better habits
+  <sub>© 2025 HaruMong. All rights reserved.</sub>
 </p>
