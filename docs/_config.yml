@@ -1,0 +1,46 @@
+# Jekyll configuration for HaruMong Support Pages
+# GitHub Pages will automatically build this site
+
+# Site settings
+title: HaruMong Support
+description: Support and documentation for HaruMong - Your habit tracking companion with a virtual pet
+url: ""
+baseurl: ""
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Permalinks
+permalink: pretty
+
+# Navigation
+header_pages:
+  - index.md
+  - privacy-policy.md
+  - terms-of-service.md
+  - support.md
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
