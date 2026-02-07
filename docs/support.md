@@ -1,11 +1,4 @@
-# HaruMong-Support
-Support Page for the app - HaruMong
----
-layout: default
-title: Support & FAQ
----
-
-# Support & FAQ
+# HaruMong Support & FAQ
 
 Need help with HaruMong? Find answers to common questions below or contact us directly.
 
