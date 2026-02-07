@@ -1,4 +1,3 @@
-# English
 # Terms of Service
 
 **Last Updated: February 8, 2025**
