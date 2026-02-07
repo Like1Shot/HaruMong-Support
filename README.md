@@ -112,19 +112,17 @@ iPhone 및 iPad에서 사용 가능. iOS 17.0 이상 필요.
 
 ---
 
-## Stay Connected | 소식 받기
+## 소식 받기
 
-Follow us for updates, tips, and cute pet content!
-
-업데이트, 팁, 귀여운 펫 콘텐츠를 받아보세요!
+인스타그램 팔로우를 통해 업데이트, 팁, 귀여운 펫 콘텐츠를 받아보세요!
 
 **Instagram:** [@harumong.app](https://instagram.com/harumong.app)
 
 ---
 
-## Patch Notes | 패치 노트
+## 패치 노트
 
-### Version 1.0.0
+### 버젼 1.0.0
 - 최초 출시
 - 간단 및 수량 습관 관리
 - 가상 펫 친구
