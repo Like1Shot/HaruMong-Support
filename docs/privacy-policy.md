@@ -76,7 +76,7 @@ We may share information only in these circumstances:
 
 ## Children's Privacy
 
-The App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
+The App is not intended for children under 9 years of age. We do not knowingly collect personal information from children under 9. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
 
 ## Your Rights
 
